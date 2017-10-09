@@ -1,0 +1,27 @@
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.exe.config
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.exe
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.pdb
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.csprojResolveAssemblyReference.cache
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.Form1.resources
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.Properties.Resources.resources
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.csproj.GenerateResource.Cache
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.exe
+c:\users\jramírez\documents\visual studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.pdb
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.exe.config
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.exe
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.pdb
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.exe
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.pdb
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.csprojResolveAssemblyReference.cache
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.Form1.resources
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.Properties.Resources.resources
+C:\Users\JRamirez\Documents\Visual Studio 2015\Projects\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.csproj.GenerateResource.Cache
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.exe.config
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.exe
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.pdb
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.exe
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\bin\Debug\appParqueDiversiones.pdb
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.csprojResolveAssemblyReference.cache
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.Form1.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.Properties.Resources.resources
+C:\Users\roke1\Desktop\Utn\6 Cuatri\ISW\PPT\appParqueDiversiones\appParqueDiversiones\obj\Debug\appParqueDiversiones.csproj.GenerateResource.Cache
